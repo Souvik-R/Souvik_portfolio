@@ -38,7 +38,7 @@ const Experience = () => {
         </ul>
       </div>
       <p className="text-base">
-        Dedicated Node.js developer with 2.11 years of experience, adept at crafting robust APIs and implementing intuitive admin panels. Seeking to leverage expertise in backend development to drive innovation and efficiency in web applications.
+        Dedicated Node.js developer with 3.4 years of experience, adept at crafting robust APIs and implementing intuitive admin panels. Seeking to leverage expertise in backend development to drive innovation and efficiency in web applications.
       </p>
     </div>
   );
