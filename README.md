@@ -3,11 +3,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+![WhatsApp Image 2025-01-30 at 4 22 15 PM](https://github.com/user-attachments/assets/a20c4905-28da-4aad-9a2b-dccf2cb232c1)
 
 In the project directory, you can run:
 
 ### `npm start`
-![MyProfiles-min](https://github.com/user-attachments/assets/e1c4ac16-ca61-4cd7-834a-5534f8d18ae9)
+
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
