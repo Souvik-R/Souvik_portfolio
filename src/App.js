@@ -79,7 +79,7 @@ const App = () => {
               and unwavering commitment to delivering impeccable code within tight deadlines.
             </p>
             <img
-              src="https://scontent.fccu31-2.fna.fbcdn.net/v/t1.6435-9/132092383_878194179609967_5962446323247733947_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=53a332&_nc_ohc=GTF-2a0bV0sQ7kNvgFllHqB&_nc_ht=scontent.fccu31-2.fna&oh=00_AYCJUwsy54W6lOjdlZPYAW2iq6tKr-MxUvPWe_zlEFyJuQ&oe=66D6A242"
+              src="https://private-user-images.githubusercontent.com/73609345/408077850-e1c4ac16-ca61-4cd7-834a-5534f8d18ae9.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzgyMzIzMzEsIm5iZiI6MTczODIzMjAzMSwicGF0aCI6Ii83MzYwOTM0NS80MDgwNzc4NTAtZTFjNGFjMTYtY2E2MS00Y2Q3LTgzNGEtNTUzNGY4ZDE4YWU5LmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTMwVDEwMTM1MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI5MjMyZTkxZGExMTk2YTZlNzI5ODRjMjFjZTU5MjMxZmFjODFjNDQ3YmI5MTQzMDg5NmJmMmM0MThjNzQyZDEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.hrRdkzHe29BogeaelVI8QtVshcTrIMcljWJXMjMSgjY"
               alt="Profile"
               className="w-32 h-32 md:w-48 md:h-48 lg:w-64 lg:h-64 rounded-full border-4 border-white mb-6"
             />
