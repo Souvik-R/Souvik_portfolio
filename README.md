@@ -3,6 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+![WhatsApp Image 2025-01-30 at 4 22 15 PM](https://github.com/user-attachments/assets/a20c4905-28da-4aad-9a2b-dccf2cb232c1)
 
 In the project directory, you can run:
 
