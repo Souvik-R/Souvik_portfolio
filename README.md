@@ -7,6 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 ### `npm start`
+![MyProfiles-min](https://github.com/user-attachments/assets/e1c4ac16-ca61-4cd7-834a-5534f8d18ae9)
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
